@@ -74,3 +74,9 @@ The case study includes five key datasets that provide detailed information abou
 ---
 
 These datasets collectively provide a structured representation of cellphone sales, enabling detailed analysis of customer preferences, sales trends, manufacturer performance, and geographical sales distribution. Each dataset is connected through foreign keys to facilitate comprehensive data queries.
+
+<br></br>
+<h2 align = "left" style="list-style: none;"><img width = "75" height = "75" align = "center" src = https://github.com/user-attachments/assets/404c92c3-81ee-4a74-95f4-db22271ec0a4> ER Diagram</h2>
+
+![ER_Diagram_1](https://github.com/user-attachments/assets/7a209e72-8803-4582-8496-197b600c9e8a)
+
